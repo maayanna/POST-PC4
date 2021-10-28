@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODOBOOM</string>
+    <string name="create_button">CREATE</string>
+    <string name="edit_todo">ENTER YOUR TODO ITEM</string>
+    <string name="apply">APPLY</string>
+    <string name="done">MARK AS DONE</string>
+    <string name="edit_not_complete">EDIT YOUR TODO</string>
+    <string name="undone">MARK AS UNDONE</string>
+    <string name="delete">DELETE</string>
+
+</resources>
